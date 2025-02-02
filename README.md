@@ -4,8 +4,8 @@ A FlappyBird Inspiered 2D Game set in outerspace! Steer your spaceship between d
 > 
 
 <div style="text-align: center;">
-  <img src="ScreenShot.png" alt="Gameplay Screenshot" width="600">
-  <p>*Try It Yourself (https://your-github-username.github.io/repository-name)*</p>
+  <img src="ScreenShot.png" alt="Gameplay Screenshot">
+  <p>*Try It Yourself - https://github.com/alongiladi/CCL2025/tree/main*</p>
 </div>
 
 
