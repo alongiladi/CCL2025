@@ -6,8 +6,6 @@ A FlappyBird Inspiered 2D Game set in outerspace! Steer your spaceship between d
 <div style="text-align: center;">
   <img src="screenshot.png" alt="screenshot">
   <p>Try It Yourself - https://alongiladi.github.io/CCL2025/   </p>
- <br>
- <p>**The Background Dissapeared when i hosted it on the Github pages and i don't know why! :(:( sorry... but it works perfectly (as seen in the video) if played through the GoLive option in Vscode. Hope You Enjoy!</p>
 </div>
 
 
