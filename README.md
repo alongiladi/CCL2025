@@ -4,14 +4,14 @@ A FlappyBird Inspiered 2D Game set in outerspace! Steer your spaceship between d
 > 
 
 <div style="text-align: center;">
-  <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
+  <img src="ScreenShot.png" alt="Gameplay Screenshot" width="600">
   <p>*Try It Yourself (https://your-github-username.github.io/repository-name)*</p>
 </div>
 
 
 ### Player:
 <div style="text-align: center;">
-  <img src="spaceship.png" alt="spaceship">
+  <img src="spaceship.png" alt="spaceship" width="600">
   <p>*Player Icon*</p>
 </div>
 
@@ -19,7 +19,7 @@ A FlappyBird Inspiered 2D Game set in outerspace! Steer your spaceship between d
 
 ### Obstacles:
 <div style="text-align: center;">
-  <img src="2sabers.png" alt="2sabers">
+  <img src="2sabers.png" alt="2sabers" width="600">
   <p>*Lightsabers.*</p>
 </div>
 
