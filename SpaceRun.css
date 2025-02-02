@@ -4,7 +4,7 @@ body {
 }
 
 #board {
-    background-image: url("/BG.jpg");
+    background-image: url("BG.jpg");
     background-size: cover;
 
 }
