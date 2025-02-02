@@ -6,7 +6,7 @@
 16.1 -   gameover function finished, still a bit bugy with the points though
 17.1 - ponit calculation a bit bugy but i'll solve it buy making each pipe only a half point ` started working on the spaceship drawing
 18.1 - ponits work and spaceship drawn almost fully. starting to twick to gravity and acceleration when jumping and moving to the sides
-19. delta time not working properly with the Y velocity, don't understand why, spent most of the day on it
-20 - ran into a number of problems - most of them solved by wrong syntax but the game is still crashing and the animation completly not orgnized, dont know how to solve it
-21 - the problem yesterday was wrong order in code, i put some stuff inside the draw function that should have been outside, and vice verse. working mornally now
-22 - finished drawing spaceship but havn't got the time i needed to draw an enemy. would try to establish some ground structre today before i make the pitch, i hope i'll make it. if not, i have at least a working game
+19.1 delta time not working properly with the Y velocity, don't understand why, spent most of the day on it
+20.1 - ran into a number of problems - most of them solved by wrong syntax but the game is still crashing and the animation completly not orgnized, dont know how to solve it
+21.1 - the problem yesterday was wrong order in code, i put some stuff inside the draw function that should have been outside, and vice verse. working mornally now
+22.1 - finished drawing spaceship but havn't got the time i needed to draw an enemy. would try to establish some ground structre today before i make the pitch, i hope i'll make it. if not, i have at least a working game
